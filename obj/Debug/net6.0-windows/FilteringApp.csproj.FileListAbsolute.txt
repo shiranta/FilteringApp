@@ -1,0 +1,17 @@
+E:\CountDownChecker\FilteringApp\bin\Debug\net6.0-windows\FilteringApp.exe
+E:\CountDownChecker\FilteringApp\bin\Debug\net6.0-windows\FilteringApp.deps.json
+E:\CountDownChecker\FilteringApp\bin\Debug\net6.0-windows\FilteringApp.runtimeconfig.json
+E:\CountDownChecker\FilteringApp\bin\Debug\net6.0-windows\FilteringApp.dll
+E:\CountDownChecker\FilteringApp\bin\Debug\net6.0-windows\FilteringApp.pdb
+E:\CountDownChecker\FilteringApp\obj\Debug\net6.0-windows\FilteringApp.csproj.AssemblyReference.cache
+E:\CountDownChecker\FilteringApp\obj\Debug\net6.0-windows\FilteringApp.Form1.resources
+E:\CountDownChecker\FilteringApp\obj\Debug\net6.0-windows\FilteringApp.csproj.GenerateResource.cache
+E:\CountDownChecker\FilteringApp\obj\Debug\net6.0-windows\FilteringApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\CountDownChecker\FilteringApp\obj\Debug\net6.0-windows\FilteringApp.AssemblyInfoInputs.cache
+E:\CountDownChecker\FilteringApp\obj\Debug\net6.0-windows\FilteringApp.AssemblyInfo.cs
+E:\CountDownChecker\FilteringApp\obj\Debug\net6.0-windows\FilteringApp.csproj.CoreCompileInputs.cache
+E:\CountDownChecker\FilteringApp\obj\Debug\net6.0-windows\FilteringApp.dll
+E:\CountDownChecker\FilteringApp\obj\Debug\net6.0-windows\refint\FilteringApp.dll
+E:\CountDownChecker\FilteringApp\obj\Debug\net6.0-windows\FilteringApp.pdb
+E:\CountDownChecker\FilteringApp\obj\Debug\net6.0-windows\FilteringApp.genruntimeconfig.cache
+E:\CountDownChecker\FilteringApp\obj\Debug\net6.0-windows\ref\FilteringApp.dll
